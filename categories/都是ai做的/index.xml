@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>都是AI做的 on 漏網 Ghoti</title><link>https://adrift-ghoti.com/categories/%E9%83%BD%E6%98%AFai%E5%81%9A%E7%9A%84/</link><description>Recent content in 都是AI做的 on 漏網 Ghoti</description><generator>Hugo -- gohugo.io</generator><language>zh-tw</language><lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://adrift-ghoti.com/categories/%E9%83%BD%E6%98%AFai%E5%81%9A%E7%9A%84/index.xml" rel="self" type="application/rss+xml"/><item><title>自摸·釣寶</title><link>https://adrift-ghoti.com/post/%E8%87%AA%E6%91%B8/</link><pubDate>Sat, 14 Mar 2026 00:00:00 +0800</pubDate><guid>https://adrift-ghoti.com/post/%E8%87%AA%E6%91%B8/</guid><description>&lt;p&gt;每年過年回母親娘家，親戚們都會聚在一起賭博，大家常玩的有大老二、撿紅點、十八骰仔或麻將。其中有個撲克牌遊戲叫自摸(又名釣寶)我到目前為止就只有在那玩過，網路上好像也沒找到類似的遊戲，有可能是家族自創的。記得小時候牌咖還很充足的時候，家裡可以老人一桌玩自摸；大人一桌大老二；小孩則自己玩撿紅點(順便練加法)，人多到警察闖進來說不定還會以為這裡在經營私人賭場。但隨著家族的人數漸漸減少，我這種初階大人雖然比較想玩大老二也得要為了湊人數跟外公一起玩自摸了。&lt;/p&gt;
+&lt;p&gt;家族自創的撲克牌遊戲雖然聽起來很酷，但老實說我是已經有點玩膩了啦。因為這遊戲其實沒有太多技巧，但老玩家還是能很邪門的瘋狂自摸，一直輸錢我就免不了越玩越意興闌珊；就算有時候輪到我贏了，我又會覺得只憑運氣有點勝之不武，內心就有種歉疚感，於是心情還是不會太好，只能說我不太適合玩這個遊戲吧。說是這麼說，但其實看到玩這遊戲的人越來越少也覺得挺哀傷的，所以每年我都還是姑且玩一下，讓傳統不至於消亡的太迅速。&lt;/p&gt;
+&lt;p&gt;今年，一如既往回到鄉下，我一位在科技業工作多年，早早退休後自己開了間小公司的厲害親戚在跟我們宣傳Claude code有多神，讓他少聘好幾個員工(親眼見證工作機會消失的現場)。被他講的我也怦然心動，回台北以後就來訂閱看看啦。老實說我其實也不知道要拿那麼厲害的AI做啥用，就先殺雞用牛刀叫他把自摸·釣寶給做出來了。畢竟如果真的是母親的家族發明的話也挺難得的，所以就把它做成網頁版放在這做個紀錄也讓有興趣的人玩看看。&lt;/p&gt;
+&lt;p&gt;(第一次載入可能要等個十秒鐘)
+&lt;div style="width:100%;overflow:hidden;position:relative;"&gt;
+&lt;iframe src="https://adrift-ghoti.com/games/draw-and-win/index.html" width="1200" height="800"
+title="自摸·釣寶"
+style="border:none;display:block;transform-origin:top left;"
+allow="autoplay"&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;script&gt;
+(function(){
+var wrap = document.currentScript.previousElementSibling;
+var iframe = wrap.querySelector('iframe');
+var nw = "1200", nh = "800";
+function resize(){
+var s = wrap.offsetWidth / nw;
+iframe.style.transform = 'scale(' + s + ')';
+wrap.style.height = (nh * s) + 'px';
+}
+resize();
+window.addEventListener('resize', resize);
+})();
+&lt;/script&gt;
+&lt;/p&gt;</description></item></channel></rss>
